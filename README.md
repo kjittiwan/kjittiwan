@@ -2,7 +2,7 @@
 
 **`Chronically online..🌐👨🏻‍💻`**
 
-I'm a passionate Front-End Developer building and learning new things every day. All coding projects are built with the desire to challenge myself and to create something better than what I created yesterday. If I'm not coding I'm probabbly making music, playing basketball, or queueing up for a League of Legends game.
+I'm a passionate Front-End Developer building and learning new things every day. All coding projects are built with the desire to challenge myself and to create something better than what I created yesterday. If I'm not coding I'm probably making music, playing basketball, or queueing up for a League of Legends game.
 
 ---
 
@@ -19,7 +19,12 @@ I'm a passionate Front-End Developer building and learning new things every day.
 <img align="left" alt="next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-          
+
+#
+
+### 📊 Stats
+
+![Kann's Github stats](https://github-readme-stats.vercel.app/api?username=kjittiwanß&show_icons=true&theme=tokyonight)
           
           
           
