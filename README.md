@@ -24,7 +24,7 @@ I'm a passionate Front-End Developer building and learning new things every day.
 
 ### 📊 Stats
 
-![Kann's Github stats](https://github-readme-stats.vercel.app/api?username=kjittiwanß&show_icons=true&theme=tokyonight)
+![Kann's Github stats](https://github-readme-stats.vercel.app/api?username=kjittiwan&show_icons=true&theme=tokyonight)
           
           
           
