@@ -20,6 +20,7 @@ I'm a passionate Front-End Developer building and learning new things every day.
 <img align="left" alt="firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <br></br>
+
 #
 
 <details>
