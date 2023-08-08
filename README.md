@@ -1,6 +1,6 @@
 # 🎠 Kann Jittiwan
 
-**`Chronically online..🌐👨🏻‍💻`**
+**`Chronically online.. 🌐👨🏻‍💻`**
 
 I'm a passionate Front-End Developer building and learning new things every day. All coding projects are built with the desire to challenge myself and to create something better than what I created yesterday. If I'm not coding I'm probably making music, playing basketball, or queueing up for a League of Legends game.
 
